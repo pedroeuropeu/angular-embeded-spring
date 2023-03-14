@@ -4,4 +4,12 @@
 
 [![Hang out with the team](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://dzone.com/articles/simplified-building-web-application-using-spring-b)
 
-DZone Article Source Code
+First step:
+
+On root project:
+
+mvn clean install
+
+On folder AppName-Service:
+
+mvn spring-boot:run
